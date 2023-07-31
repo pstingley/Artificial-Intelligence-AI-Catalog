@@ -8,3 +8,5 @@ been added.  Some probably need further categorization, for instance tools that 
 are included in the Word Processing category.  While these tools do process words, perhaps a new category
 indicating that the tool is generating the text is required.  I haven't yet done that because I am trying 
 to avoid creating a deeper taxonomy.  We shall see.
+
+I am providing this in Excel format because I find it's sort capabilities make the catalog more useful.
